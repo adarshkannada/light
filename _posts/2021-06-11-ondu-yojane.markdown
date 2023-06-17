@@ -3,11 +3,7 @@ layout: post
 title: ಹಿಂಗೊಂದು ಯೋಜನೆ - ಅಚ್ಚಕನ್ನಡ ಬೇಸಾಯ ವ್ಯವಸ್ಥೆ
 excerpt: "The plan for India"
 categories: Technology
-comments: true
-image:
-  feature: 
-  credit: Adarsha
-  creditlink: https://acchakannada.com
+mathjax: true
 ---
 
 **Description:** New system to improve the agriculture production, marketing and delivery system.
