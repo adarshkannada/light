@@ -4,10 +4,6 @@ title: ಲಿನಕ್ಸ್
 excerpt: "ಯಾರಿಗೆ ಮತ್ತೆ ಯಾತಕ್ಕೆ ??"
 categories: Technology
 comments: true
-image:
-  feature: 
-  credit: Adarsha
-  creditlink: https://acchakannada.com
 ---
 
 ### **ಮೇ - ೩೧, ಮೊದಲ ದಿನ** <br>
