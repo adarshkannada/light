@@ -4,10 +4,7 @@ title: open source android apps
 excerpt: "my open source apps recommendations"
 categories: Technology
 comments: true
-image:
-  feature: 
-  credit: Adarsha
-  creditlink: https://acchakannada.com
+
 ---
 
 ### 	ಬಳಸುವ ಕೆಲವು ಓಪನ್ ಸೋರ್ಸ್ android ಅಪ್ಲಿಕೇಷನ್ ಗಳು
