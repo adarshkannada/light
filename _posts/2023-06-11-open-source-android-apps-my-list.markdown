@@ -21,4 +21,4 @@ comments: true
 - Video Player: https://apt.izzysoft.de/fdroid/index/apk/dev.anilbeesetti.nextplayer
 
 
-<p align = "center" > - ಆದರ್ಶ </p>
+<p align ="center"> - ಆದರ್ಶ </p>
