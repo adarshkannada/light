@@ -9,8 +9,8 @@ comments: true
 
 ### ನನ್ನ ಉಪಯೋಗಕ್ಕೆ ಬಂದ ಕೆಲವು ಓಪನ್ ಸೋರ್ಸ್ android ಅಪ್ಲಿಕೇಷನ್ ಗಳು
 - F-DROID app store: https://f-droid.org/en/
-	- ಗೂಗಲ್ ಪ್ಲೇಸ್ಟೋರ್ ನಂಗೆ ಇದು ಒಂದು app ಸ್ಟೋರ್. ಆದರೆ ಇದರಲ್ಲಿ ಸಿಗುವ appಗಳೆಲ್ಲ ಓಪನ್ ಸೋರ್ಸ್ appsಗಳು.
- 	- ಓಪನ್ ಸೋರ್ಸ್ ಆಗಿರೋದ್ರಿಂದ ಜನಕ್ಕೆ ಗೊತ್ತಾಗದ ಹಾಗೆ ಜನರ ಡಾಟಾ ಅನ್ನು ತಗೊಂಡು, ಬೇರೇವ್ರಿಗೆ ಮಾರ್ಕೊಳ್ಳೋಕಾಗಲ್ಲ.  
+  - ಗೂಗಲ್ ಪ್ಲೇಸ್ಟೋರ್ ನಂಗೆ ಇದು ಒಂದು app ಸ್ಟೋರ್. ಆದರೆ ಇದರಲ್ಲಿ ಸಿಗುವ appಗಳೆಲ್ಲ ಓಪನ್ ಸೋರ್ಸ್ apps ಗಳು.
+  - ಓಪನ್ ಸೋರ್ಸ್ ಆಗಿರೋದ್ರಿಂದ ಜನಕ್ಕೆ ಗೊತ್ತಾಗದ ಹಾಗೆ ಜನರ ಡಾಟಾ ಅನ್ನು ತಗೊಂಡು, ಬೇರೇವ್ರಿಗೆ ಮಾರ್ಕೊಳ್ಳೋಕಾಗಲ್ಲ.  
 - RSS reader:
 	- ನಮ್ಮ ನೆಚ್ಚಿನ ಎಲ್ಲ ಜಾಲತಾಣಗಳ, ಎಲ್ಲ ಸುದ್ದಿ, ಬರಹಗಳನ್ನ ಒಂದೇ ಕಡೆ ನೋಡೋಕೆ ಇದು ಸಹಾಯ ಮಾಡುತ್ತೆ.
   - Feeder: https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play&hl=en&gl=US
@@ -23,6 +23,7 @@ comments: true
 - Hiking companion:
   - Trail sense: https://play.google.com/store/apps/details?id=com.kylecorry.trail_sense&hl=en&gl=US
 - File Transfer:
+	- ಎಲ್ಲ platform (ios, android, windows, linux, macos) ಗಳ ನಡುವೆ ಡಾಟಾ ಕಳಿಸೋಕೆ
 	- Localsend: https://play.google.com/store/apps/details?id=org.localsend.localsend_app&hl=en&gl=US
 - Songs Download:
 	- soundbound: https://play.google.com/store/apps/details?id=in.shabinder.soundbound&hl=en&gl=US
